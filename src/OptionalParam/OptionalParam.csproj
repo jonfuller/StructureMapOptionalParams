@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="DefaultCtorParameterConvention.cs" />
     <Compile Include="DefaultCtorParameterConventionTester.cs" />
+    <Compile Include="Example.cs" />
     <Compile Include="Ext.cs" />
     <Compile Include="ExtTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
